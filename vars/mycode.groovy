@@ -1,4 +1,4 @@
-def call(def usernameInputvalue)
+def call(def UsernameInputvalue)
 {
-  echo "My name is ${usernameInputvalue}"
+  echo "My name is ${UsernameInputvalue}"
 }
